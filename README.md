@@ -9,12 +9,42 @@ Upstream 这个代码仓用于帮助商业训练营的同学们完成作业。
 每位同学首先：
 
 1. 构建自己的仓库 Fork本仓库
-2. 以Markdown的格式(.md)提交一篇文章 写一篇有关训练营/自己组队的想法的文章，笔记等，提交到自己的Repo请使用自己的GitHub 用户名命名该md文件。
-3. 至少给其他同学的3个repo各提1个issue。
-4. 给其他同学的repo 10个stars
-5. 解决自己Repo至少一个issue。
-6. 获得10个stars 想办法为自己的Repo获得十个点赞
-7. 提交PR
+2. **在训练营官网个人中心，编辑个人信息，填写 Githubname（如不完成此步骤，将无法在训练营官网排行榜处获取成绩）。**
+3. 以Markdown的格式(.md)提交一篇文章 写一篇有关训练营/自己组队的想法的文章，笔记等，提交到自己的Repo请使用自己的GitHub 用户名命名该md文件。
+4. 至少给其他同学的3个repo各提1个issue。
+5. 给其他同学的repo 10个stars
+6. 解决自己Repo至少一个issue。
+7. 获得10个stars 想办法为自己的Repo获得十个点赞
+8. 提交PR
+9. 完成实验后，可以在训练营官网排行榜处查看成绩 [导学阶段 - 第一期源起之道开源商业创新营 - 源起之道开源商业创新营 - 训练营](https://opencamp.cn/UpstreamLabs/camp/S1/stage/0?tab=rank)
+
+## 基础阶段第一课作业
+
+### 作业要求
+在 [assignments/lesson1](assignments/lesson1) 目录下，选择以下任一开源商业模式进行分析，并提交分析报告：
+- Odoo 商业模式
+- 安卓商业模式
+- 红帽商业模式
+- Linux 基金会商业模式
+- Apache 商业模式
+
+### 提交方式
+1. 复制 [assignments/lesson1/example-report.md](assignments/lesson1/example-report.md) 并重命名为您的 GitHub 用户名
+2. 按照模板要求完成分析报告
+3. 提交 Pull Request
+
+## 基础阶段第二课作业：Git工具实践
+
+### 作业要求
+1. 完成版本控制工具git安装，通过执行`git --version`查看版本信息，并截图
+2. fork仓库https://github.com/upstreamlabs/github101到自己账号下，将个人账号下的github101（可以是fork时自定义项目名）克隆到本地（指操作设备），在[assignments/lesson2](assignments/lesson2)目录下创建以个人账号（GitHub账号）命名的markdown文件，在文件中撰写git安装过程、遇到的问题及解决方法，以及使用命令查看版本信息的截图。
+3. 通过git命令将本地仓库提交到远程仓库（个人账号），向远程仓库（组织仓）提交PR合入请求。
+4. 将使用git命令过程总结记录到第2步中的markdown文件，最后再次执行第3步操作提交。
+
+### 提交方式
+1. 复制 [assignments/lesson2/example-report.md](assignments/lesson2/example-report.md) 并重命名为您的 GitHub 用户名
+2. 按照模板要求完成实践报告
+3. 提交 Pull Request
 
 ## 自动评分系统
 
